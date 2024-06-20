@@ -68,7 +68,7 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Russell Johnson
+Tobi8068
 
 ## Acknowledgments
 
